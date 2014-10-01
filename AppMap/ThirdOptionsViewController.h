@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  ThirdOptionsViewController.h
 //  AppMap
 //
 //  Created by Joshua Howland on 10/1/14.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UITableViewController
+@interface ThirdOptionsViewController : UIViewController
 
+@property (nonatomic, strong) NSString *identifier;
 
 @end
-

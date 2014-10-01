@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  ThirdViewController.h
 //  AppMap
 //
 //  Created by Joshua Howland on 10/1/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UITableViewController
-
+@interface ThirdViewController : UIViewController
 
 @end
-
